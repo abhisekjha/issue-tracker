@@ -1,0 +1,4 @@
+sudo: a password is required
+d_safe Logging to '/opt/homebrew/var/mysql/Abhiseks-MBP.attlocal.net.err'.
+2024-07-07T16:44:47.6NZ mysqld_safe Starting mysqld daemon with databases from /opt/homebrew/var/mysql
+2024-07-07T16:44:47.6NZ mysqld_safe mysqld from pid file /opt/homebrew/var/mysql/Abhiseks-MBP.attlocal.net.pid ended
